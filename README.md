@@ -1,9 +1,7 @@
 # LiDARNavigatorBot
 
-# Alex to the Rescue
-
 ## Abstract
-"Alex to the Rescue" is an innovative robotics project developed as a part of our Computer Engineering curriculum. This robot, Alex, is designed for a simulated search and rescue operation, capable of mapping environments using LiDAR and identifying victims through color sensing, all within a specified time frame. Detailed insights into Alex's functionality are available in the [Alex_to_the_Rescue_report.pdf](link-to-your-pdf).
+The LiDARNavigatorBot, also known as Alex is an innovative robotics project developed as a part of our Computer Engineering curriculum. This robot, Alex, is designed for a simulated search and rescue operation, capable of mapping environments using LiDAR and identifying victims through color sensing, all within a specified time frame. Detailed insights into Alex's functionality are available in the [LiDARNavigatorBot.pdf](https://github.com/ymirmeddeb/LiDARNavigatorBot/blob/main/docs/LiDARNavigatorBot_report.pdf).
 
 ## Introduction
 Tasked with creating a robot that could navigate and perform tasks in a simulated search and rescue environment, our team engineered Alex to identify victims represented by colored targets, avoid obstacles, and operate remotely via teleoperation. This project required a blend of hardware integration, software development, and innovative problem-solving.
