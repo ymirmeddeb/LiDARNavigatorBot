@@ -15,7 +15,7 @@ Key components that constitute Alex include:
 - **Power Supply:** 6V battery pack.
 
 ## Software
-The brain of Alex is driven by software written in C++ for Arduino, emphasizing obstacle detection, victim identification, and efficient navigation. The source code is accessible in the `Mbot_Code.ino` within this repository.
+The brain of Alex is driven by software written in C++ for Arduino, emphasizing obstacle detection, victim identification, and efficient navigation. The source code is accessible in the `code` directory within this repository.
 
 ## Algorithm Overview
 Alex's operational logic is straightforward yet sophisticated, encompassing:
@@ -30,9 +30,6 @@ Our journey was marked by hurdles such as sensor noise and inconsistencies in mo
 Successfully meeting our objectives, "Alex to the Rescue" demonstrated the practical application of our theoretical knowledge, underscoring our robot's ability to navigate and execute search and rescue missions autonomously.
 
 ## Acknowledgements
-We extend our gratitude to our project supervisor and the faculty at the National University of Singapore's College of Design and Engineering for their unwavering support and resources.
+Special thanks to our project supervisor and the NUS College of Design and Engineering for providing resources and support.
 
-For a step-by-step guide on setting up and more details, please refer to the Wiki section of this repository.
 
-## Contribution Guidelines
-Contributions to the "Alex to the Rescue" project are highly encouraged! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
