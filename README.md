@@ -32,4 +32,16 @@ Successfully meeting our objectives, "Alex to the Rescue" demonstrated the pract
 ## Acknowledgements
 Special thanks to our project supervisor and the NUS College of Design and Engineering for providing resources and support.
 
+## Pictures of the robot
+
+![Picture 1](https://github.com/ymirmeddeb/LiDARNavigatorBot/assets/74667654/fb19e97d-6691-41cf-9a31-727cfc574f39)
+
+![Picture 2](https://github.com/ymirmeddeb/LiDARNavigatorBot/assets/74667654/f15691fb-49d2-412e-8e71-8f083b55d95a)
+
+![Picture 3](https://github.com/ymirmeddeb/LiDARNavigatorBot/assets/74667654/2c1a56ca-1bea-4c2b-b7e8-a7b1ff488765)
+
+![Picture 4](https://github.com/ymirmeddeb/LiDARNavigatorBot/assets/74667654/8501ae0e-edfb-4ac4-9f5f-a76d713597aa)
+
+![Picture 5](https://github.com/ymirmeddeb/LiDARNavigatorBot/assets/74667654/6edb6251-0e78-4cac-aee3-a3d12aeea7e8)
+
 
